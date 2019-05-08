@@ -1,0 +1,10 @@
+PointerAlignment: Left
+UseTab: Never
+IndentWidth: 4
+BreakBeforeBraces: Custom
+BraceWrapping:
+  BeforeCatch: true
+  BeforeElse: true
+AllowShortIfStatementsOnASingleLine: true
+ColumnLimit: 0
+IndentCaseLabels: true
