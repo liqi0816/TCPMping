@@ -47,6 +47,10 @@ Options:
 Mandatory or optional arguments to long options are also mandatory or optional
 for any corresponding short options.
 
+## Smokeping
+
+Put `TCPMPing.pm` inside `/usr/share/smokeping/Smokeping/probes`.
+
 ## License
 
 This code is distributed under the GPL License.
